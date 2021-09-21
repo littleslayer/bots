@@ -1,4 +1,4 @@
-TOKEN = '1870669418:AAGgvriqRx4xJcwCR9g85jLh3BaSrGS7LUM'
+
 
 import telebot
 import config
